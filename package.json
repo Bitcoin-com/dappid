@@ -1,6 +1,6 @@
 {
   "name": "dappid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "dappid",
   "keywords": [],
   "main": "dist/dappid.umd.js",
@@ -12,7 +12,7 @@
   "author": "Gabriel Cardona - gabriel@bitcoin.com",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Bitcoin-com/dappid.git"
   },
   "license": "MIT",
   "engines": {
